@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Post 2: Refining the Direction and Defining Functional Requirements"
+date: 2026-04-24
+tags: advanced web design interaction design functional requirements
+---
+
 # Post 2: Refining the Direction and Defining Functional Requirements
 
 Since my initial post, I have changed the direction of my project. I originally explored a study-related application, but after further consideration, I decided to focus on a recovery-based fitness community. This change came from realising that the recovery context presents a more specific and meaningful problem, with clearer user needs and constraints.
@@ -23,6 +30,8 @@ At this stage, I am focusing on a smaller set of core features:
 - stage or condition selection  
 - structured recovery logs  
 - filtered or guided content instead of a general feed  
+
+More complex features such as messaging or recommendations may be added later, but they are not essential for the first version.
 
 This process helped me realise that designing for recovery is less about adding more features and more about reducing unnecessary complexity. The application should support decision-making and provide reassurance, rather than simply encouraging interaction.
 
