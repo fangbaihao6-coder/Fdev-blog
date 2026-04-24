@@ -1,0 +1,29 @@
+# Post 2: Refining the Direction and Defining Functional Requirements
+
+Since my initial post, I have changed the direction of my project. I originally explored a study-related application, but after further consideration, I decided to focus on a recovery-based fitness community. This change came from realising that the recovery context presents a more specific and meaningful problem, with clearer user needs and constraints.
+
+Compared to general study or fitness platforms, recovery involves more uncertainty and risk. Users are often not looking for motivation or general content, but for reassurance, clarity, and safe guidance. This made me reconsider how the application should function.
+
+After deciding on this new direction, I started thinking more carefully about what the application actually needs to do. At first, I considered designing something similar to existing fitness platforms, with a general content feed, posts, and interactions. However, the more I reflected on the recovery context, the more I realised that this approach would not be appropriate.
+
+In a typical fitness app, users usually browse content casually. They might be looking for motivation, new exercises, or general advice. The system is often designed to maximise engagement, with a large volume of mixed content. However, recovery is very different. Users are not just browsing. They usually have a specific concern, such as whether an exercise is safe, whether their pain level is normal, or what they should do next.
+
+Because of this, I identified that the core requirement of this application is not content discovery, but relevant and contextual guidance.
+
+One important functional requirement is allowing users to identify their current recovery stage. Recovery is not a single condition, and the same advice does not apply to everyone. For example, someone in an early stage of recovery may need rest and basic movement, while someone further along may be ready for strength training. Without understanding this context, the system cannot provide meaningful support.
+
+Another key requirement is structured recovery logs. Instead of allowing only open-ended posts, users should be able to record specific details, such as pain level, exercises attempted, and small progress changes. This makes the information more useful over time and allows users to reflect on their own recovery. It may also help other users who are in a similar situation.
+
+I also thought about whether a traditional content feed should be included. While it is a common feature, it may introduce too much noise in this context. A large amount of unrelated or general content could make it harder for users to find what they actually need. Because of this, I am considering a more guided approach, where content is filtered based on the user’s recovery stage and needs.
+
+This introduces an important trade-off. A structured and guided system may feel less flexible and less engaging compared to a typical social platform. However, it improves clarity, relevance, and potentially safety, which are more important in a recovery situation.
+
+At this stage, I am focusing on a smaller set of core features:
+- user profiles with basic recovery information  
+- stage or condition selection  
+- structured recovery logs  
+- filtered or guided content instead of a general feed  
+
+This process helped me realise that designing for recovery is less about adding more features and more about reducing unnecessary complexity. The application should support decision-making and provide reassurance, rather than simply encouraging interaction.
+
+In the next stage, I plan to explore how these ideas translate into user flow and interface structure.
