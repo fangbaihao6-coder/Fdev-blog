@@ -25,6 +25,33 @@ At the beginning, I considered several possible ideas:
 - a study buddy matching platform
 
 After comparing these ideas, I decided to focus on the study buddy app because it seems practical, useful, and achievable within the time available.
+---
+title: Post Title
+date: 2026-02-14
+author: Your Name
+summary: Short description
+tags:
+  - tag1
+  - tag2
+  - tag3
+---
+# Post 1: Understanding the Problem and Defining Core Requirements
+
+## Initial Project Idea
+
+For my web app prototype, I want to create a study buddy matching app for university students.
+
+The goal of this application is to help students find other people in the same course, with similar study habits and available times.
+
+I chose this idea because many students struggle to meet classmates outside tutorials or lectures. This can be even more difficult for international students, first-year students, or people who are shy.
+
+At the beginning, I considered several possible ideas:
+
+- a travel reflection app with no likes or comments
+- a wellbeing habit tracker for students
+- a study buddy matching platform
+
+After comparing these ideas, I decided to focus on the study buddy app because it seems practical, useful, and achievable within the time available.
 
 ## Identifying the Problem
 
